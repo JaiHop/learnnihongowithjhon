@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://d22dvihj4pfop3.cloudfront.net/wp-content/uploads/sites/78/2016/12/15171131/asia-japao-1200x630.jpg');
+    background-size: 1500px;
+    font-family: Arial;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  .menu li {
+    list-style: none
+  }
+  h1{
+    text-decoration: none 
+  }
+  .site-title{
+    text-align: center;
+    color: rgb(48, 37, 121)
+  }
+  .site-subtitle{
+    text-align: center;
+    color: rgb(48, 37, 121)
+  }
+  .content{
+    text-align: center;
+    color: rgb(36, 26, 99);
+    text-decoration: underline;
+  }
